@@ -1,0 +1,14 @@
+/*
+Theme Name:     twentyfourteen-reboot
+Description:    This is the customized version of the twentyfourteen theme for the Singles Site
+Author:         admin
+Template:       twentyfourteen
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../twentyfourteen/style.css");
+
+p.warning {
+	color: red;
+}
