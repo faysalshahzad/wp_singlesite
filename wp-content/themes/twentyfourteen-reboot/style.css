@@ -12,3 +12,10 @@ Template:       twentyfourteen
 p.warning {
 	color: red;
 }
+
+div.oldpost {
+	color: grey;
+	font-style: italic;
+	font-size: 0.9em;
+	margin-bottom:5px;
+}	
